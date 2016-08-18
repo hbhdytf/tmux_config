@@ -70,6 +70,6 @@ stop
   
 * )  
   
-echo "USAGE:$0 {download or install or start or stop}"
+echo "USAGE:$0 {install or update or exit}"
 exit  
 esac  
