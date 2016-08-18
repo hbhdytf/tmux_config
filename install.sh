@@ -60,14 +60,13 @@ install )
     yesmeck) install; yesmeck;;
     esac  
 ;;  
-  
-start )  
-start  
-;;  
-stop )  
-stop  
-;;  
-  
+
+"")
+echo "Default install!";
+install; 
+gpakosz
+;;
+
 * )  
   
 echo "USAGE:$0 {install or update or exit}"
