@@ -1,6 +1,6 @@
 # tmux_config
 
-![Screenshot](https://raw.githubusercontent.com/hbhdytf/tmux_config/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/hbhdytf/tmux_config/master/screens.png)
 
 ## Installation
 
