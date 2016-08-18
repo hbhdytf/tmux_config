@@ -72,3 +72,4 @@ gpakosz
 echo "USAGE:$0 {install or update or exit}"
 exit  
 esac  
+tmux source-file ~/.tmux.conf
